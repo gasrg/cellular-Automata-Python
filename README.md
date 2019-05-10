@@ -1,2 +1,3 @@
-# cellular-Automata-Python
-Cellular Automata using Numpy and Matplotlib
+# Cellular 
+
+Simple Cellular Automata in Python using Numpy and Matplotlib
